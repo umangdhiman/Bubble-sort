@@ -1,0 +1,1 @@
+A sorting algorithm which compares each pair of adjacent elements & swaps them if unsorted, so that everytime the largest item reaches at the last position and then the array size to be sorted is reduced by 1 and again the adjacent elements are compared , this process continues until no swap is needed. 
